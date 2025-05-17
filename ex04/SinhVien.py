@@ -4,5 +4,5 @@ class SinhVien:
         self._name = name
         self._sex = sex
         self._major = major
-        self. diemTB = diemTB
+        self._diemTB = diemTB
         self._hocLuc = ""
