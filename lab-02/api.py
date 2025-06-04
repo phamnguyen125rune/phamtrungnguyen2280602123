@@ -24,7 +24,6 @@ def caesar_encrypt():
 
 
 
-
 @app.route('/api/caesar/decrypt', methods=['POST'])
 def caesar_decrypt():
     data = request.json
